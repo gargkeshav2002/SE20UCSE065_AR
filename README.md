@@ -10,4 +10,3 @@ Other png files are the 2d images of 3d assets.<br>
 I used unitear software which is a no coding platform for AR. I built the application in that and published it.<br>
 I extracted the code, the web page for unitear, all the files are available in the repository.
 
-Video file is too large to be uploaded here.
